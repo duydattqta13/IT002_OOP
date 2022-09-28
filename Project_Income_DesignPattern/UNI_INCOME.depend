@@ -1,0 +1,106 @@
+# depslib dependency file v1.0
+1636966050 source:d:\code stuff\code_block\uni_income\main.cpp
+	<iostream>
+	"ExternTaxRateTable.h"
+	"UniversityProfessor.h"
+	"UniversityStaff.h"
+	"StockHolder.h"
+	"RealEstateAgency.h"
+
+1636965915 source:d:\code stuff\code_block\uni_income\src\observer.cpp
+	"Observer.h"
+
+1636964466 d:\code stuff\code_block\uni_income\include\observer.h
+	<bits/stdc++.h>
+	"Subject.h"
+
+1636959861 source:d:\code stuff\code_block\uni_income\src\incometaxratetable.cpp
+	"IncomeTaxRateTable.h"
+	"Subject.cpp"
+
+1636911950 d:\code stuff\code_block\uni_income\include\incometaxratetable.h
+	"Subject.h"
+
+1636965054 d:\code stuff\code_block\uni_income\include\subject.h
+	<bits/stdc++.h>
+	"Observer.h"
+
+1636906785 source:d:\code stuff\code_block\uni_income\src\person.cpp
+	"Person.h"
+
+1636906785 d:\code stuff\code_block\uni_income\include\person.h
+
+1636965225 source:d:\code stuff\code_block\uni_income\src\subject.cpp
+	"Subject.h"
+
+1636965761 source:d:\code stuff\code_block\uni_income\src\universityprofessor.cpp
+	"UniversityProfessor.h"
+	"../ExternTaxRateTable.h"
+
+1636965554 d:\code stuff\code_block\uni_income\include\universityprofessor.h
+	"Observer.h"
+	"TaxRateTable.h"
+	"Person.h"
+
+1636965225 d:\code stuff\code_block\uni_income\src\subject.cpp
+	"Subject.h"
+
+1636964146 d:\code stuff\code_block\uni_income\src\observer.cpp
+	"Observer.h"
+
+1636965591 source:d:\code stuff\code_block\uni_income\src\universitystaff.cpp
+	"UniversityStaff.h"
+	"../ExternTaxRateTable.h"
+
+1636965621 d:\code stuff\code_block\uni_income\include\universitystaff.h
+	"Observer.h"
+	"TaxRateTable.h"
+	"Person.h"
+
+1636912175 source:d:\code stuff\code_block\uni_income\src\stocktaxratetable.cpp
+	"StockTaxRateTable.h"
+	"Subject.cpp"
+
+1636911732 d:\code stuff\code_block\uni_income\include\stocktaxratetable.h
+	"Subject.h"
+
+1636965904 source:d:\code stuff\code_block\uni_income\src\stockholder.cpp
+	"StockHolder.h"
+	"../ExternTaxRateTable.h"
+
+1636965157 d:\code stuff\code_block\uni_income\include\stockholder.h
+	"Observer.h"
+	"TaxRateTable.h"
+	"Person.h"
+
+1636912556 source:d:\code stuff\code_block\uni_income\src\realestatetaxratetable.cpp
+	"RealEstateTaxRateTable.h"
+	"Subject.cpp"
+
+1636959778 d:\code stuff\code_block\uni_income\include\realestatetaxratetable.h
+	"Subject.h"
+
+1636965633 d:\code stuff\code_block\uni_income\include\realestateagency.h
+	"Observer.h"
+	"TaxRateTable.h"
+	"Company.h"
+
+1636912619 d:\code stuff\code_block\uni_income\include\company.h
+
+1636912620 source:d:\code stuff\code_block\uni_income\src\company.cpp
+	"Company.h"
+
+1636965750 source:d:\code stuff\code_block\uni_income\src\realestateagency.cpp
+	"RealEstateAgency.h"
+	"TaxRateTable.h"
+	"../ExternTaxRateTable.h"
+
+1636965938 source:d:\code stuff\code_block\uni_income\src\taxratetable.cpp
+	"TaxRateTable.h"
+
+1636964353 d:\code stuff\code_block\uni_income\include\taxratetable.h
+	"Subject.h"
+
+1636966021 d:\code stuff\code_block\uni_income\externtaxratetable.h
+	"TaxRateTable.h"
+
